@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    }
+    .menu {background-color: #00ffe5;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        color: rgba(240, 248, 255, 0.925);
+        font-size: 1.3em;
+        
+        
+    }
+
+    ul{ display: flex;
+        width: 500px;
+        justify-content: space-between;
+        text-align: right;
+        align-items: center;
+        text-shadow:0 0 10px rgba(220, 16, 172, 0.526);
+        text-align: right;}
+
+     ul li a{
+            font-size: 20px;
+            padding:5px;
+            color: hwb(0 36% 18%);
+            display: block;
+            padding: 20PX;
+            text-decoration: none;
+        margin: 0px 60px 0px;
+    }
+
+ 
+    
+    li{
+        list-style:none;
+        align-items: center;
+    }
+    h1{
+        text-shadow:0 0 10px rgb(0, 255, 225);
+    }
+    ul li a{
+        text-decoration: none;
+    }
+    
+    .sol{padding: 10px 40px;
+
+    }
+.bono{
+    margin-right: 100px;
+    width: 500px;
+    padding: 10px 40px;
+    text-align: justify;
+    display: inline-block;
+    line-height: 1.5;
+    font-size: 20px;
+    float: right;
+}
+.bon{
+    margin-right: 100px;
+    width: 500px;
+    padding: 10px 40px;
+    text-align: justify;
+    display: inline-block;
+    line-height: 1.5;
+    font-size: 20px;
+    float: left;
+}
+
+.son{
+    width: 500px;
+    height: 300px;
+    margin-left:10px ;
+    justify-content: right; 
+    padding: 10px 40px;
+}
+.pan{
+    width: 5000px;
+    height: 500px;
+    margin-left:50px ;
+    justify-content: right; 
+}
+.ron{
+    width: 500px; 
+    height: 500px;}

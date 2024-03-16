@@ -1,0 +1,150 @@
+*{
+margin: 0;
+}
+.menu {background-color: #00ffe5;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    color: rgba(240, 248, 255, 0.925);
+    font-size: 1.3em;
+    line-height: 1.5;
+    
+}
+.buscar{
+    
+}
+ul li a{
+    font-size: 20px;
+    padding:5px;
+    color: hwb(0 36% 18%);
+    display: block;
+    padding: 20PX;
+
+
+}
+h1{
+    text-shadow:0 0 10px rgb(0, 255, 225);
+}
+ul li a{
+    text-decoration: none;
+    margin: 0px 60px 0px;
+}
+
+ul{ 
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    text-align: right;
+    align-items: center;
+    text-shadow:0 0 10px rgba(220, 16, 172, 0.526);
+    text-align: right;
+}
+ li{
+    list-style:none;
+
+}
+.bon{
+    float: right;
+    margin-right: 100px;
+    width: 500px;
+    padding: 10px 40px;
+    line-height: 1.5;
+    font-size: 20px;
+    text-align: justify;
+    display: inline-block;
+    padding-top: 15px;
+}
+.tell{
+    float: left;
+    margin-right: 100px;
+    width: 500px;
+    padding: 10px 40px;
+    line-height: 1.5;
+    font-size: 20px;
+    text-align: justify;
+    display: inline-block;
+    padding-top: 15px;
+}
+
+h2{
+    text-shadow:0 0 10px rgb(0, 255, 225);}
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    
+} 
+
+.libro{
+    width: 600px;
+    height: 400px;
+    margin-left:15px ;
+}
+
+.nota{
+    width: 500px;
+    height: 300px;
+    margin-left:20px ;
+    justify-content: left;
+    
+}
+.son{
+    width: 500px;
+    height: 300px;
+    margin-left:10px ;
+    justify-content: right; 
+}
+.pan{
+    width: 500px;
+    height: 300px;
+    margin-left:10px ;
+    justify-content: right; 
+}
+
+.dos{
+    float: right;
+    margin-right:100px;
+    width: 500px;
+    padding: 10px 40px;
+    line-height: 1.5;
+    font-size: 20px;
+    text-align: justify;
+    display: inline-block;
+    padding-top: 15px;
+}
+.icon{
+    font-size: 20px;
+    color: hwb(0 36% 18%);
+    background: rgb(0, 255, 225);
+    position: relative;
+   width: 100%;
+    min-height: 100px;
+    padding: 20px 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ }
+ .icon li a{
+    font-size: 2em;
+color: aliceblue;
+
+ }
+ .icon li a:hover{
+    transform: translateY(-10px);
+ }
+ .you li a{
+   font-size: 1.2em;
+   color: hwb(0 36% 18%);
+   margin: 3 10px;
+   text-decoration: none;
+   display: inline-block;
+   opacity: 0 .75;
+}
+footer.wave {
+position: absolute;
+top: -100px;
+left: 0;
+width: 100%;
+height: 100px; 
+background: #ffc400;
+background-size: 1000px 100px;
+}
